@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`repair module snapshot 1`] = `
+Object {
+  "durability": 80,
+  "enhancement": 10,
+  "name": "sword",
+}
+`;
+
+exports[`success module snapshot 1`] = `
+Object {
+  "durability": 20,
+  "enhancement": 20,
+  "name": "shield",
+}
+`;
